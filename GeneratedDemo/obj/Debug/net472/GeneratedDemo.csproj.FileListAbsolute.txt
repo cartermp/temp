@@ -1,0 +1,4 @@
+C:\Users\phcart\source\scratch\temp\GeneratedDemo\obj\Debug\net472\GeneratedDemo.csprojAssemblyReference.cache
+C:\Users\phcart\source\scratch\temp\GeneratedDemo\obj\Debug\net472\GeneratedDemo.AssemblyInfoInputs.cache
+C:\Users\phcart\source\scratch\temp\GeneratedDemo\obj\Debug\net472\GeneratedDemo.AssemblyInfo.cs
+C:\Users\phcart\source\scratch\temp\GeneratedDemo\obj\Debug\net472\GeneratedDemo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\phcart\source\scratch\temp\SourceGeneratorSamples\bin\Debug\netstandard2.0\SourceGeneratorSamples.deps.json
+C:\Users\phcart\source\scratch\temp\SourceGeneratorSamples\bin\Debug\netstandard2.0\SourceGeneratorSamples.dll
+C:\Users\phcart\source\scratch\temp\SourceGeneratorSamples\bin\Debug\netstandard2.0\SourceGeneratorSamples.pdb
+C:\Users\phcart\source\scratch\temp\SourceGeneratorSamples\obj\Debug\netstandard2.0\SourceGeneratorSamples.csprojAssemblyReference.cache
+C:\Users\phcart\source\scratch\temp\SourceGeneratorSamples\obj\Debug\netstandard2.0\SourceGeneratorSamples.AssemblyInfoInputs.cache
+C:\Users\phcart\source\scratch\temp\SourceGeneratorSamples\obj\Debug\netstandard2.0\SourceGeneratorSamples.AssemblyInfo.cs
+C:\Users\phcart\source\scratch\temp\SourceGeneratorSamples\obj\Debug\netstandard2.0\SourceGeneratorSamples.csproj.CoreCompileInputs.cache
+C:\Users\phcart\source\scratch\temp\SourceGeneratorSamples\obj\Debug\netstandard2.0\SourceGeneratorSamples.dll
+C:\Users\phcart\source\scratch\temp\SourceGeneratorSamples\obj\Debug\netstandard2.0\SourceGeneratorSamples.pdb
